@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
     return (
-        <div className="bg-slate-800 w-full h-screen text-slate-200 text-lg p-4">
+        <div className="bg-slate-800 w-full min-h-screen text-slate-200 text-lg p-4">
             <div className="border-dotted border-2 border-violet-500 h-full rounded-lg flex p-4">
                 <main className="m-auto max-w-2xl">
                     <h1 className="text-center">Welcome to the cum.ad zone</h1>
@@ -21,6 +21,7 @@ function App() {
                         <li><a href="https://www.stremio.com/" target="_blank">A cool ass fuck you to netflix</a></li>
                         <li><a href="https://fedoraproject.org/" target="_blank"><b>FUCK YOU WINDOWS I HATE YOU</b></a></li>
                         <li><a href="https://mastodon.social/explore" target="_blank">The unelonified twitter</a></li>
+                        <li><a href="https://duckduckgo.com" target="_blank">My ChatGPT is not your ChatGPT</a></li>
                     </ul>
                     <br />
                     <p>
