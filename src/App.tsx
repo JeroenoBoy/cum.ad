@@ -22,6 +22,11 @@ function App() {
                         <li><a href="https://fedoraproject.org/" target="_blank"><b>FUCK YOU WINDOWS I HATE YOU</b></a></li>
                         <li><a href="https://mastodon.social/explore" target="_blank">The unelonified twitter</a></li>
                     </ul>
+                    <br />
+                    <p>
+                        Yes, this is a simple static site made with React because fuck your mobile data,
+                        have fun downloading react form my server
+                    </p>
                 </main>
             </div>
         </div>
