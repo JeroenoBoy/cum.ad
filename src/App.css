@@ -1,1 +1,25 @@
 @import "tailwindcss";
+
+h1 {
+    @apply text-4xl text-violet-300
+}
+
+p {
+    @apply py-1
+}
+
+a {
+    @apply text-violet-500 underline hover:text-violet-600
+}
+
+ul {
+    @apply pl-8 list-disc
+}
+
+img {
+    @apply p-2 border-2 border-dotted border-violet-500 rounded-lg
+}
+
+b {
+    @apply font-bold
+}
